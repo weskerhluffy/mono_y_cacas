@@ -6,6 +6,7 @@
  */
 
 // XXX: https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/practice-problems/algorithm/monk-and-some-queries/
+
 #if 1
 #define _GNU_SOURCE
 #include <stdio.h>
